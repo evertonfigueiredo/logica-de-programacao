@@ -42,6 +42,6 @@ Este repositorio foi criado com a intenção de ajudar os alunos que estão come
 
 20. Encontre o n-ésimo termo de uma série: Escreva um programa que encontre o n-ésimo termo de uma série matemática, como a série de Fibonacci ou a sequência de números de Lucas.
 
-
+Esses desafios de lógica de programação são projetados para ajudar os iniciantes a desenvolver suas habilidades de pensamento lógico e resolução de problemas em JavaScript.
 
 Após realizar o desafio realize um pull request neste repositorio.
